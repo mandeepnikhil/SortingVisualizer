@@ -3,7 +3,8 @@ This is a GUI based python program to visualize common Sorting Algorithms.
 
 How to run?
 
--Pull the code in your local repo.
+
+-Pull the code in your local repo from master/SortingVisualizer.
 -Run the code.
 
 ![Screenshot (1218)](https://user-images.githubusercontent.com/49777472/120469854-86584100-c3c0-11eb-983d-2c5df74de091.png)
